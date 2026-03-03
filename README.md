@@ -154,5 +154,5 @@ python app.py
 
 ## 👩‍💻 Author
 
-**Shalini**  
+**Nithin**  
 AI & Software Engineering Enthusiast  
